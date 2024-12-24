@@ -95,7 +95,7 @@ void loop() {
 # 四、仿真软件中验证程序
 Proteus中画好电路，并在单片机中导入前面的hex文件，运行如下所示。当每次按下按钮S1，可见不同的LED灯被点亮，实现了人肉切换的效果。稍微修改一下逻辑也可以达到自动流水灯的效果，这里就不做展开了。
 
-[video(video-PlvzX81e-1734624173980)(type-csdn)(url-https://live.csdn.net/v/embed/439712)(image-https://img-home.csdnimg.cn/images/20230724024159.png?origin_url=https%3A%2F%2Fv-blog.csdnimg.cn%2Fasset%2Ffec6d72a07ea01e11abc2f18e8c9a46c%2Fcover%2FCover0.jpg&pos_id=img-6hUq58QO-1734624185295))(title-202412190008)]
+![circuit](https://github.com/iamfirst/eyjoy-microcomputer-with-zero-hardware-cost/blob/main/202412190008.gif)
 ---
 # 总结
 文章叙述得比较粗略，其它一些单片机同理，想要验证想法，也可以按这个大概流程在仿真软件中实施验证

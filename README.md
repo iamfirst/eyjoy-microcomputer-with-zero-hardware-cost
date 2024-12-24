@@ -3,7 +3,7 @@ Proteus is a powerful electronic circuit design and simulation software that can
 ## Step 1: Arduino pro mini pinout
 
 ## Step 2: Code with Arduino IED
-code as follows:
+see the file promini.ino, code as follows:
 ```c
 #include <MsTimer2.h>
 

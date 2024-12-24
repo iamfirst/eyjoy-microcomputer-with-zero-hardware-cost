@@ -1,7 +1,7 @@
 ## preface
 Proteus is a powerful electronic circuit design and simulation software that can simulate microcontrollers. This article takes the Arduino Pro Mini as an example, first writing a button-controlled running light program on the Arduino IDE, and then importing it into Proteus for simulation and debugging.
 ## Step 1: Arduino pro mini pinout
-
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/a11253042daf4ada871cd8016729fd67.png#pic_center)
 ## Step 2: Code with Arduino IED
 see the file promini.ino, code as follows:
 ```c

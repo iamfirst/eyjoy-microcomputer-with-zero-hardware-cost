@@ -87,7 +87,8 @@ void loop() {
 ## Step 4: Verify the program in the simulation software - Proteus
 In Proteus, draw the circuit and import the previously compiled HEX file into the microcontroller. Run as shown below. Each press of button S1 lights up different LEDs, achieving a manual switching effect. With slight modifications to the logic, an automatic running light effect can also be achieved, which will not be elaborated here.
 
-[video(video-PlvzX81e-1734624173980)(type-csdn)(url-https://live.csdn.net/v/embed/439712)(image-https://img-home.csdnimg.cn/images/20230724024159.png?origin_url=https%3A%2F%2Fv-blog.csdnimg.cn%2Fasset%2Ffec6d72a07ea01e11abc2f18e8c9a46c%2Fcover%2FCover0.jpg&pos_id=img-6hUq58QO-1734624185295))(title-202412190008)]
+![circuit](202412190008.gif)
+
 ---
 ## Summary
 The article describes the process roughly. The same applies to other microcontrollers; if you want to verify your ideas, you can follow this general procedure to implement and verify in the simulation software.
